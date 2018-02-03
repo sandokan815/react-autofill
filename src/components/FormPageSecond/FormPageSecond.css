@@ -1,0 +1,54 @@
+.form-page div {
+}
+
+.form-page label {
+  display: block;
+}
+
+.form-page .form-content {
+  width: 30%;
+  background-color: #e7e8ef;
+  margin: 0 auto;
+  padding: 5%;
+}
+
+@media screen and (max-width: 768px) {
+  .form-page .form-content {
+    width: 100%;
+  }
+}
+
+.form-page .form-content .form-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5%;
+}
+
+.form-page .form-content .form-item input {
+  height: 25px;
+  border-radius: 2px;
+}
+
+.form-page .form-content .form-item select {
+  width: 130px;
+  height: 30px;
+}
+
+.form-page .form-content .form-submit button {
+  width: 100%;
+  height: 48px;
+  background-color: #02efc5;
+}
+
+.form-page .form-content .form-item button {
+  width: 100%;
+}
+
+.form-page .form-content .form-item button span {
+  font-size: 17px;
+}
+
+.form-page .form-content .form-item .react-tel-input {
+  width: 40%;
+}
