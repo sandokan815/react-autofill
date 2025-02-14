@@ -7,4 +7,4 @@ autofill form delivery
 2. npm start
 
 ##info
-created by JavascriptNinja , 2018.2.3
+created by xandokan815@gmail.com , 2018.2.3
